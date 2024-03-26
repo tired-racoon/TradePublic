@@ -1,0 +1,11 @@
+services:
+  web:
+    image: "tiredracoon/trade_container-web:version2"
+    ports:
+      - "8080:5000"
+    volumes:
+      - .:/code
+    environment:
+      FLASK_DEBUG: "true"
+  redis:
+    image: "redis:alpine"
