@@ -25,7 +25,8 @@
 
 Важно, что волны могут быть абсолютно разного размера и амплитуды – в этом и заключается главная сложность. А еще стоит отличать свинг-трейдинг от интрадей-трейдинга
 
-![Intraday](https://github.com/tired-racoon/TradePublic/blob/main/pics/daytrade.png)
+![Intraday](https://github.com/user-attachments/assets/819c5d04-03fe-4a1c-957e-84dd43fcff10)
+
 ![Swing](https://github.com/tired-racoon/TradePublic/blob/main/pics/swingtrade.png)
 
 
